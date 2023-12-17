@@ -11,7 +11,7 @@
    <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
 </p> 
 
-- 🏢 I'm a front end delveloper
+- 🏢 I'm a Front End Developer | React JS
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, or anything related to web development.
 
@@ -32,4 +32,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
+![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-05122A?style=flat&logo=ReduxToolkit)&nbsp;
+![TailwandCss](https://img.shields.io/badge/-TailwandCss-05122A?style=flat&logo=TailwandCss)&nbsp;
+![MaterialUi](https://img.shields.io/badge/-MaterialUi-05122A?style=flat&logo=MaterialUi)&nbsp;
+![React_Bootstrap](https://img.shields.io/badge/-React_Bootstrap-05122A?style=flat&logo=React_Bootstrap)&nbsp;
+
+
 
