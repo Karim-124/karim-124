@@ -1,42 +1,13 @@
-
-<!-- <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"> -->
-
-<h3 align="center">
-  Welcome to Karim Abdelazim,s profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
-</p> 
-
-- 🏢 I'm a Front End Developer | React JS
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, or anything related to web development.
+<div align="center"> <img width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF"> </div> <h3 align="center"> Welcome to Karim Abdelazim's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=%7B%20%22%D9%88%D9%8E%D9%82%D9%8F%D9%84%D9%92%20%D8%B1%D9%8E%D8%A8%D9%90%D9%91%20%D8%B2%D9%90%D8%AF%D9%92%D9%86%D9%90%D9%8A%20%D8%B9%D9%90%D9%84%D9%92%D9%85%D8%A7%D9%8B%22%20%7D%20قال%20تعالى&font=Fira%20Code&center=true&vCenter=true&color=000000" alt="In the name of Allah" /> </p>
 
 
 ### Connect with Me :
+<div> <a href="https://www.linkedin.com/feed/" target="_blank"> <img src="https://img.shields.io/badge/-Karim%20Abdelazim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://t.me/Karimabdelazim" target="_blank"> <img src="https://img.shields.io/badge/-Karim%20Abdelazim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"> </a> <a href="https://www.facebook.com/" target="_blank"> <img src="https://img.shields.io/badge/-Karim%20Abdelazim-0077B5?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"> </a> </div>
 
-<a href="https:https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Abdelazim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Karimabdelazim" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Abdelazim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Abdelazim-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
-![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-05122A?style=flat&logo=ReduxToolkit)&nbsp;
-![TailwandCss](https://img.shields.io/badge/-TailwandCss-05122A?style=flat&logo=TailwandCss)&nbsp;
-![MaterialUi](https://img.shields.io/badge/-MaterialUi-05122A?style=flat&logo=MaterialUi)&nbsp;
-![React_Bootstrap](https://img.shields.io/badge/-React_Bootstrap-05122A?style=flat&logo=React_Bootstrap)&nbsp;
+<div> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"> <img src="https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react" alt="React.js"> <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" alt="Redux"> <img src="https://img.shields.io/badge/-Redux%20Toolkit-05122A?style=flat&logo=redux" alt="Redux Toolkit"> <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" alt="HTML"> <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6" alt="CSS"> <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css" alt="TailwindCSS"> <img src="https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui" alt="Material UI"> <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap"> <img src="https://img.shields.io/badge/-React%20Bootstrap-05122A?style=flat&logo=react-bootstrap" alt="React Bootstrap"> <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass" alt="Sass"> <img src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery" alt="jQuery"> <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"> </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KarimAbdelazim&show_icons=true&theme=tokyonight" alt="Karim Abdelazim's GitHub Stats" width="50%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=KarimAbdelazim&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" /> </div>
 
 
 
