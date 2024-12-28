@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF" width="250">
-</div>
 
 <h1 align="center">Welcome to Karim Abdelazim's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
