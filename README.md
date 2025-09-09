@@ -1,23 +1,59 @@
-<h1 align="center">
-  Welcome to Karim Abdelazim's Profile! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<!-- 🌟 HEADER -->
+<h1 align="center">Hi, I'm Karim Abdelazim 👋</h1>
+<h3 align="center">💻 Frontend Developer | React & Modern Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=💻+Front+End+Developer;⚛️+React+%2B+Redux+Enthusiast;📚+Always+Learning+New+Technologies;وَقُلْ+رَبِّ+زِدْنِي+عِلْمًا" alt="Typing Animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding">
 </p>
 
 ---
 
-<div align="center">
-  <p><strong>💻 Front End Developer | React.js | Redux</strong></p>
-  <p>🚀 Passionate about building modern, responsive, and user-friendly web apps.</p>
-  <p>📚 Always learning & exploring new technologies to grow as a developer.</p>
-</div>
+<!-- ✨ ABOUT -->
+## ✨ About Me
+- 🎯 Building **modern, responsive, and scalable** web apps  
+- ⚛️ Passionate about **React, Redux Toolkit, and UI frameworks**  
+- 📚 Creator of **EasyBio** → an online learning platform for biology (Arabic & English)  
+- 🌱 Lifelong learner → *"وَقُلْ رَبِّ زِدْنِي عِلْمًا"*  
+- 🚀 Always exploring new technologies & open-source  
 
 ---
 
-## 🌐 Connect with Me
+<!-- 🛠 TECH STACK -->
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,materialui,sass,git,github,vscode" />
+</p>
+
+---
+
+<!-- 📊 GITHUB STATS -->
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karim-124&show_icons=true&theme=dracula&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karim-124&theme=dracula&hide_border=true" height="170" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karim-124&theme=dracula&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<!-- 🚀 PROJECTS -->
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/karim-124/EasyBio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-124&repo=EasyBio&theme=dracula&hide_border=true" />
+  </a>
+  <a href="https://github.com/karim-124/another-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-124&repo=another-project&theme=dracula&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<!-- 🌍 CONNECT -->
+## 🌍 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://img.shields.io/badge/-Karim%20Abdelazim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -32,27 +68,17 @@
 
 ---
 
-## 🛠 Tech Stack
+<!-- ⚡ FUN -->
+## ⚡ Fun Facts
+- 🎵 Love coding with background music  
+- 🌍 Interested in **edtech projects** (like EasyBio)  
+- 🕹️ Always improving my skills by building real-world apps  
+
+---
+
+<!-- 👀 FOOTER -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,bootstrap,sass,jquery,materialui,git,github,vscode" />
+  <img src="https://komarev.com/ghpvc/?username=karim-124&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karim-124&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karim-124&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🚀 About Me
-- 🎯 Currently focusing on **React, Redux Toolkit, and modern UI frameworks**  
-- 🧑‍💻 Building projects to sharpen my frontend skills  
-- 🌱 Exploring **backend integration & API handling**  
-- 📖 Inspired by the Quranic verse: *وَقُلْ رَبِّ زِدْنِي عِلْمًا* ("And say: My Lord, increase me in knowledge")  
-
----
-
-✨ *Thanks for visiting my profile!* 🌟
+<h3 align="center">✨ Thanks for stopping by! ✨</h3>
